@@ -10,7 +10,8 @@ In this example you can see two different examples:
     * TimeLimiter: Throw and error when a slow request is processed.
 
 If you want more information you can take a look into:
-https://refactorizando.com/ejemplo-circuit-breaker-resilience4j-spring-boot
+* Spanish: https://refactorizando.com/ejemplo-circuit-breaker-resilience4j-spring-boot
+* English: https://refactorizando.com/en/circuit-breaker-with-resilience4j-in-spring-boot/
 
 image::circuit_breaker.png[]
 
